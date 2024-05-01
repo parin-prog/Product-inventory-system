@@ -1,0 +1,13 @@
+
+.form-info {
+	width: 100%;
+}
+Field {
+	width: 50%;
+}
+
+.back-link {
+	padding: 10px 20px;
+	background-color: rgb(21, 0, 255);
+	display: block;
+}

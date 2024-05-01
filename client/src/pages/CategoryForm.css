@@ -1,0 +1,26 @@
+.form-container {
+	width: 50%;
+	display: flex;
+	justify-content: center;
+	background-color: rgba(255, 255, 255, 0.833);
+	margin: 13vh auto;
+	
+}
+
+.form-wrapper {
+	width: 20vw;
+	margin: 10vw;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.submit-btn {
+	text-align: center;
+}
+
+.back-link {
+	padding: 10px 20px;
+	background-color: rgb(21, 0, 255);
+	display: block;
+}
